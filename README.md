@@ -1,5 +1,10 @@
 # vue-todolist
 
+This is a simple frontend To-Do List application built with Vue.js.
+
+You can test the live demo of the application here:
+https://frontend-todo-list-vue.vercel.app/
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
